@@ -153,10 +153,10 @@ const skillsSection = {
 				skillName: 'Sqlite',
 				imgSrc: 'https://img.icons8.com/office/50/000000/database.png',
 			},
-			{
-				skillName: 'Firebase',
-				imgSrc: 'https://img.icons8.com/color/50/000000/firebase.png',
-			},
+			// {
+			// 	skillName: 'Firebase',
+			// 	imgSrc: 'https://img.icons8.com/color/50/000000/firebase.png',
+			// },
 		],
 		
 		toolsAndPlatforms: [
